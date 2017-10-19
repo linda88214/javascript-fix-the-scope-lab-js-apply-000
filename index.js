@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-// local variable is created and destroyed everytime the function is executed and cannot be accessed outside the function 
+// local variable is created and destroyed everytime the function is executed and cannot be accessed outside the function
 
 
 function add2(n) {
